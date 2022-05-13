@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { PATH } from "./paths";
 
-//  TODO: Remove this import and him usage after to start project
+//  TODO: Remove this imports and their usage after to start project
 import { Link } from "react-router-dom";
 
 export const Router = () => {
